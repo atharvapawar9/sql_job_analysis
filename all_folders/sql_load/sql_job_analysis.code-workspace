@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Desktop/Codes/sql_job_analysis"
+		},
+		{
+			"path": "../csv_files"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postgres",
+				"database": "postgres",
+				"username": "postgres"
+			}
+		]
+	}
+}
